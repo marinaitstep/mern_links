@@ -1,0 +1,6 @@
+{
+    "port":5000,
+    "jwtSecret": "marina test",
+    "mongoUri": "mongodb+srv://marina:1234ZXCV@cluster0.0jzx8.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl":"http://localhost:5000"
+}
